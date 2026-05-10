@@ -1,6 +1,10 @@
 body {
     background-color: aqua;
 }
+div {
+    background-color: beige;
+    font-size: xx-large;
+}
 h1 {
     text-align: center;
     background-color: aquamarine;
